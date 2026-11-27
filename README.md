@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<!-- PROFILE VIEWS MOVED BELOW SOCIAL LINKS -->
+<!-- PROFILE VIEWS BELOW SOCIAL LINKS -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishansingh0711&label=PROFILE+VIEWS&color=00E5C0&style=for-the-badge" />
@@ -58,7 +58,7 @@
 <!--                   TECH STACK                      -->
 <!-- ================================================= -->
 
-## 💻 Tech Stack & Tools
+## 💻 Programming Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,nodejs,git,github,vscode&theme=dark" />
@@ -125,7 +125,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kishansingh0711&theme=tokyo-night&hide_border=true&area=true&height=220" />
+  <img width="90%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=kishansingh0711&theme=tokyo-night&hide_border=true&area=true&height=220" />
 </p>
 
 ---
